@@ -5,4 +5,4 @@ About: A modern twist on the classic word game Hangman. A single-player game, wh
 
 Description: Players click on letters to fill-in-the-blanks for chosen words. For every incorrect guess, an apple will fall off the tree. If the player guesses all the letters of the word before all the apples fall, a win will be recorded for the player. 
 
-Technologies Used: Interface Builder, UIKit, Swift, Xcode
+Technologies Used: Interface Builder, UIKit, AutoLayout, Swift, Xcode
